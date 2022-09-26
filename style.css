@@ -22,6 +22,16 @@ h1{
     box-sizing: border-box;
     margin-bottom: 40px;
 }
+.button{
+    width: 100%;
+    background: #00bcd4;
+    color: #fff;
+    border-radius: 0;
+    border:none;
+    outline: none;
+    height: 50px;
+    font-size: 24px;
+}
 .input{
     position: relative;
     width: 100%;
@@ -44,16 +54,6 @@ h1{
     font-size: 18px;
     opacity: 1;
     color: #00bcd4;
-}
-.button{
-    width: 100%;
-    background: #00bcd4;
-    color: #fff;
-    border-radius: 0;
-    border:none;
-    outline: none;
-    height: 50px;
-    font-size: 24px;
 }
 .btn_train{
     width: 100%;
